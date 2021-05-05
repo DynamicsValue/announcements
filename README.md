@@ -10,7 +10,7 @@ You can also track important updates on [FakeXrmEasy's Twitter page](https://twi
 
 We're effectively rewriting FakeXrmeasy in v2. 
 
-Among the nice upcoming features, one is a new middleware that will make the framework fully configurable. In order to make the v2 migration smoother, it'll be much easier for you if you start moving **today** your XrmFakedContext classes to the constructor of your base test class, like [shown in this repo](https://github.com/DynamicsValue/power-platform-dev-saturday/blob/master/test/WebCdsWithFakeXrmEasy.UnitTests/FakeXrmEasyTestsBase.cs):
+Among the nice upcoming features, one is a new middleware that will make the framework fully configurable. In order to make the v2 migration smoother, it'll be a whole lot easier for you if you start moving **TODAY** your XrmFakedContext classes to the constructor of your base test class, like [shown in this repo](https://github.com/DynamicsValue/power-platform-dev-saturday/blob/master/test/WebCdsWithFakeXrmEasy.UnitTests/FakeXrmEasyTestsBase.cs):
 
 ```csharp
     public class FakeXrmEasyTestsBase
@@ -25,3 +25,5 @@ Among the nice upcoming features, one is a new middleware that will make the fra
         }
     }
 ```
+
+We're looking forward to see what you'll build in v2!
