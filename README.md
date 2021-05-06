@@ -8,7 +8,7 @@ You can also track important updates on [FakeXrmEasy's Twitter page](https://twi
 
 ## Middleware
 
-We're effectively rewriting FakeXrmeasy in v2. 
+We're effectively rewriting FakeXrmEasy in v2. 
 
 Among the nice upcoming features, one is a new middleware that will make the framework fully configurable. In order to make the v2 migration smoother, it'll be a whole lot easier for you if you start moving **TODAY** your XrmFakedContext classes to the constructor of your base test class, like [shown in this repo](https://github.com/DynamicsValue/power-platform-dev-saturday/blob/master/test/WebCdsWithFakeXrmEasy.UnitTests/FakeXrmEasyTestsBase.cs):
 
