@@ -1,10 +1,14 @@
 # Announcements
 
-We're pleased to announce a new upcoming version of FakeXrmEasy v2.x that targets .net core. 
+We're pleased to announce a new upcoming version of FakeXrmEasy v2.x and version 3.x that targets .net core. 
 
 Use this repository to track important changes that are coming out soon and that will make your migration path easier even before v2 is finally public.
 
 You can also track important updates on [FakeXrmEasy's Twitter page](https://twitter.com/FakeXrmEasy)
+
+**Check out [the new docs site](https://dynamicsvalue.github.io/fake-xrm-easy-docs/)!**
+
+**And the [new home for v2.x and v3.x versions](https://github.com/DynamicsValue/fake-xrm-easy)**
 
 ## Middleware
 
